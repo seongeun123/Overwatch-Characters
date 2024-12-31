@@ -11,7 +11,7 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.2/reset.min.css">
 ```
 
-:star: 약식 표
+:star: 약식 표현
 ```
 <div class="heroes">
   .hero*32>.image
