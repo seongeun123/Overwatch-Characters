@@ -10,6 +10,7 @@
 ```
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.2/reset.min.css">
 ```
+</br>
 
 :star: 약식 표현
 ```
@@ -17,12 +18,14 @@
   .hero*32>.image
 </div>
 ```
+</br>
 
 :star: margin으로 가운데 정렬하기
 ```
 margin: 0 auto
 ```
 해당 요소가 블록이고, 가로 사이즈가 명시되어 있으면 margin 으로 가운데 정렬할 수 있다.
+</br>
 
 :star: skewX
 ```
@@ -35,3 +38,4 @@ margin: 0 auto
 }
 ```
 부모 요소에서 skewX를 적용하면 자식 요소에도 적용되어서 자식요소에 반대로 다시 적용해줘야 한다.
+</br>
