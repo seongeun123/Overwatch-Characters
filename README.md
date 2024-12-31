@@ -15,3 +15,23 @@ reset.css cdn
 ```
 margin: 0 auto
 ```
+
+```
+.container .heroes .hero {
+    transform: skewX(-14deg);
+ }
+
+.container .heroes .hero:hover{
+    transform: skewX(-14deg) scale(1.3);
+}
+```
+
+```
+.container .heroes .hero {
+    transform: skewX(-14deg);
+}
+
+.container .heroes .hero .image {
+    transform: skewX(14deg);
+}
+```
