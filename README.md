@@ -24,7 +24,7 @@ margin: 0 auto
 ```
 해당 요소가 블록이고, 가로 사이즈가 명시되어 있으면 margin 으로 가운데 정렬할 수 있다.
 
-:star: skewX 주의할 점
+:star: skewX
 ```
 .container .heroes .hero {
     transform: skewX(-14deg);
