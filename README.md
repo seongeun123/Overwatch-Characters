@@ -11,3 +11,7 @@ reset.css cdn
   .hero*32>.image
 </div>
 ```
+
+```
+margin: 0 auto
+```
