@@ -5,13 +5,13 @@
 패스트캠퍼스 강의를 듣고 작성했습니다.
 
 
-
+## 오답노트
 :star: reset.css cdn
 ```
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.2/reset.min.css">
 ```
 
-:star: 
+:star: 약식 표
 ```
 <div class="heroes">
   .hero*32>.image
