@@ -1,5 +1,8 @@
 # Overwatch-Characters
-패스트 캠퍼스 실습 (HTML, CSS)
+ (HTML, CSS)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+패스트 캠퍼스 실습
 
 reset.css cdn
 ```
